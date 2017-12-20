@@ -5,4 +5,4 @@ file.txt
 /dir
 /dir1/
 innerdir/
-/innerdir1/
+*/innerdir1/

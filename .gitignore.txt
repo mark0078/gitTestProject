@@ -1,8 +1,0 @@
-#test File
-
-*.test
-file.txt
-/dir
-/dir1/
-innerdir/
-/innerdir1/
